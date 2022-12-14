@@ -31,7 +31,7 @@ En el footer del archivo donde tendrás el slider, agrega las siguientes líneas
 
 Copia y pega el siguiente html en la pagina donde quieres integrar el slider:
 
-<code> ------------------------------------------------
+
   <section id="container-slider">	
      <a href="javascript: fntExecuteSlide('prev');" class="arrowPrev"><i class="fas fa-chevron-circle-left"></i></a>
      <a href="javascript: fntExecuteSlide('next');" class="arrowNext"><i class="fas fa-chevron-circle-right"></i></a>
@@ -70,7 +70,7 @@ Copia y pega el siguiente html en la pagina donde quieres integrar el slider:
        </li>
     </ul>
   </section>
---------------------------------
+
 
 Debes sustituir la url de las imágenes por las tuyas.
 
