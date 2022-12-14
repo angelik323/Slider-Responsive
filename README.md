@@ -20,11 +20,18 @@ En el footer del archivo donde tendrás el slider, agrega las siguientes líneas
 - La primera línea corresponde a la librería fontawesome, el cual permite insertar iconos de forma gratuita, (Puedes descargar la librería para no consumir recursos de servidores externos).
 - La segunda línea corresponde al archivo functions.js que se ha creado previamente, (Si ya tienes un archivo de funciones solo debes enlazarlo).
 
+<code>
+  <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+</code>
+- / -
+<code>
+  <script defer src="functions.js"></script>
+</code>
 
 
 Copia y pega el siguiente html en la pagina donde quieres integrar el slider:
 
-<code>
+<code> <!--
   <section id="container-slider">	
      <a href="javascript: fntExecuteSlide('prev');" class="arrowPrev"><i class="fas fa-chevron-circle-left"></i></a>
      <a href="javascript: fntExecuteSlide('next');" class="arrowNext"><i class="fas fa-chevron-circle-right"></i></a>
@@ -63,6 +70,7 @@ Copia y pega el siguiente html en la pagina donde quieres integrar el slider:
        </li>
     </ul>
   </section>
+-->
 </code>
 
 Debes sustituir la url de las imágenes por las tuyas.
