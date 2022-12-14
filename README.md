@@ -12,5 +12,5 @@ Para integrar el slider o carrousell de imagenes sigue los siguientes pasos:
 
 En el head de la página donde tendrás el slider, agrega la dirección del archivo style.css, como se muestra a continuación. (la ruta depende de la ubicación del archivo style.css).
 
-<code><link rel="stylesheet" href="style.css"></code>
+<code> <link rel="stylesheet" href="style.css"> </code>
 
